@@ -1,1 +1,2 @@
-Product controllers
+<?php
+?>
